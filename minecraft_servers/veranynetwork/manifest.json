@@ -10,6 +10,7 @@
     "en"
   ],
   "social": {
+    "web": "https://www.verany.net",
     "web_shop": "https://veranynet.tebex.io",
     "discord": "https://discord.gg/NCKpJkzXyn",
     "twitter": "VeranyNET"
@@ -17,40 +18,39 @@
   "gamemodes": {
     "buildffa": {
       "name": "BuildFFA",
-      "color": "#028df0"
+      "color": "#0388fc"
     },
     "skywarsffa": {
       "name": "SkyWarsFFA",
-      "color": "#028df0"
+      "color": "#0388fc"
     },
     "deathtime": {
       "name": "DeathTime",
-      "color": "#028df0"
+      "color": "#0388fc"
     },
     "waterfight": {
       "name": "Waterfight",
-      "color": "#028df0"
+      "color": "#0388fc"
     },
     "skywars": {
       "name": "SkyWars",
-      "color": "#028df0"
+      "color": "#0388fc"
     },
     "cb": {
       "name": "CityBuild",
-      "color": "#028df0"
+      "color": "#0388fc"
     },
-    {
-     "bw":
+    "bw": {
       "name": "BedWars",
-      "color": "#f00a02"
-  }
+      "color": "#fc0f03"
+    }
   },
   "discord": {
     "server_id": 847985124221124678,
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "#3ea359",
+    "primary": "#0388fc",
     "background": "#134095",
     "text": "#ffffff"
   },
